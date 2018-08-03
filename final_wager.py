@@ -16,4 +16,56 @@ tf.logging.set_verbosity(tf.logging.ERROR)
 pd.options.display.max_rows = 10
 pd.options.display.float_format = '{:.1f}'.format
 
-jeopardy_dataframe = pd.read_csv("data.csv", sep=",")
+jeopardy_dataframe = pd.read_csv("jeopardy_data.csv", sep=",")
+
+
+def preprocess_features(jeopardy_dataframe):
+    """Prepares input features from California housing data set.
+
+     Args:
+       jeopardy_dataframe: A Pandas DataFrame expected to contain data
+         from the California housing data set.
+     Returns:
+       A DataFrame that contains the features to be used for the model, including
+       synthetic features.
+     """
+
+    selected_features = jeopardy_dataframe[
+    ["correct_a",
+     "correct_b",
+     "correct_c",
+     "incorrect_a",
+     "incorrect_b",
+     "incorrect_c",
+     "num_since_correct_a",
+     "num_since_correct_b",
+     "num_since_correct_c",
+     "dd_a",
+     "dd_b",
+     "dd_c",
+     "num_wins_row_champ",
+     "amount_before_final_a",
+     "amount_before_final_b",
+     "amount_before_final_c",
+     "amount_leader_wagered"
+     ]]
+
+    return selected_features
+
+
+def preprocess_targets(jeopardy_dataframe):
+    """Prepares target features (i.e., labels) from Jeopardy data set.
+
+    Args:
+      jeopardy_dataframe: A Pandas DataFrame expected to contain data
+        from the Jeopardy data set.
+    Returns:
+      A DataFrame that contains the target feature.
+    """
+
+    output_targets = pd.DataFrame()
+    # Create a boolean categorical feature representing whether the
+    # median_house_value is above a set threshold.
+    output_targets["leader_win"] = jeopardy_dataframe["leader_win_flag"].astype(float)
+
+    return output_targets

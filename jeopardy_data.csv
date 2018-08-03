@@ -1,0 +1,201 @@
+﻿season,show_num,correct_a,correct_b,correct_c,incorrect_a,incorrect_b,incorrect_c,num_since_correct_a,num_since_correct_b,num_since_correct_c,dd_a,dd_b,dd_c,occupation_leader,num_wins_row_champ,final_category,amount_before_final_a,amount_before_final_b,amount_before_final_c,amount_leader_wagered,leader_final_correct,leader_win,leader_win_flag
+33,7356,13,14,16,1,2,5,2,4,5,1,0,1,copywriter,0,Asian Islands,10800,9600,5100,10300,Yes,Yes,1
+33,7357,12,20,11,2,8,5,2,7,13,0,1,0,copywriter,1,19th Century Military Men,10200,8700,7000,8701,No,No,0
+33,7358,19,22,5,0,3,4,2,3,25,1,2,0,filmmaker/author,1,20th Century Science Terms,17600,14000,1200,10401,Yes,Yes,1
+33,7359,21,15,16,1,1,2,2,15,1,1,2,0,filmmaker/author,1,Dante's Inferno,19000,14200,10800,9401,No,No,0
+33,7360,20,22,9,3,3,4,6,4,1,1,2,0,writer,1,Film Adaptations,16800,15400,6600,14001,No,No,0
+33,7361,13,25,9,0,4,1,6,2,5,1,1,0,analytics consultant,2,Authors,16800,14900,7000,13001,No,No,0
+33,7362,17,21,8,2,1,3,1,8,6,1,0,0,Ph.D candidate,1,Pop Culture Characters,15600,14800,-1200,15600,Yes,Yes,1
+33,7363,23,13,17,6,2,2,5,1,8,1,1,0,Ph.D candidate,2,College Disciplines,12800,10800,10400,10000,Yes,Yes,1
+33,7364,26,12,10,4,1,1,7,5,2,1,0,0,Ph.D candidate,3,Opera,22000,5600,4600,0,No,Yes,1
+33,7365,25,10,15,1,1,5,1,4,12,2,1,0,Ph.D candidate,4,African Geography,21900,18800,4600,0,No,Yes,1
+33,7366,25,14,13,0,0,7,2,4,8,2,0,0,Ph.D candidate,5,International Business,25400,10600,600,600,Yes,Yes,1
+33,7367,23,11,12,2,3,2,3,5,2,1,0,0,Ph.D candidate,6,21st Century Music,15800,9100,6800,3000,No,Yes,1
+33,7368,24,14,9,1,2,2,3,1,4,1,1,0,Ph.D candidate,7,Historic Homes,17600,12600,4400,7601,Yes,Yes,1
+33,7369,21,14,9,2,2,2,2,1,3,0,1,0,Ph.D candidate,8,Mythology,14100,9000,5500,4000,Yes,Yes,1
+33,7370,28,13,10,1,5,4,6,1,3,3,0,0,Ph.D candidate,9,Corporate Logos,26000,6200,2400,4000,No,Yes,1
+33,7371,17,16,10,3,5,5,1,2,6,0,0,0,Ph.D candidate,10,Christianity,11600,6600,400,1601,Yes,Yes,1
+33,7372,26,13,8,1,3,3,4,9,3,1,0,0,Ph.D candidate,11,In the Novel,19400,6400,-400,600,Yes,Yes,1
+33,7373,27,14,7,3,4,2,1,3,6,1,1,0,Ph.D candidate,12,The Economy,19000,17000,1800,5,Yes,No,0
+33,7374,20,16,14,2,3,3,1,13,3,1,0,0,Author,1,Secretaries of State,17800,6800,1200,4000,Yes ,Yes,1
+33,7375,21,14,16,5,4,3,2,3,1,1,0,2,Systems Engineer,1,Television,14600,9600,8300,4700,Yes,Yes,1
+33,7376,15,19,14,1,3,2,5,1,2,0,0,1,writer/actress,1,Inaugural Addresses,11000,8800,7800,6601,Yes,Yes,1
+33,7377,17,17,15,2,2,3,7,1,18,0,1,1,bartender,1,Geography & Language,15600,15200,8400,15600,No,No,0
+33,7378,18,17,14,3,3,5,2,8,1,2,1,0,legislative librarian,1,State Songs,22600,10200,6200,2000,No,Yes,1
+33,7379,19,17,11,4,2,1,2,4,7,0,0,0,legislative librarian,1,The Oscars,9400,9200,5600,9000,Yes,Yes,1
+33,7380,15,24,4,2,3,3,4,5,1,0,2,0,legislative librarian,2,19th Century Literature,14600,14400,1400,14200,Yes,Yes,1
+33,7381,17,17,13,2,4,5,2,9,6,2,0,0,genomics research manager,3,Historic Relatives,12600,10300,7000,8031,Yes,Yes,1
+33,7382,19,16,14,3,0,3,3,6,4,2,0,1,genomics research manager,1,Funnymen,18000,14200,11400,10431,Yes,Yes,1
+33,7383,15,20,8,1,2,1,4,8,2,1,1,0,administrative assistant,2,1960s Science Books,15300,12000,6600,3000,Yes,Yes,1
+33,7384,14,19,10,1,6,4,3,4,13,1,0,1,consulting engineer,1,Quotable Notables,12400,6200,5400,0,Yes,Yes,1
+33,7385,22,10,14,2,4,1,8,2,5,0,0,1,managing director of art,1,European Anniversaries,16800,7700,6800,0,Yes,Yes,1
+33,7386,24,10,11,3,1,2,1,5,13,2,1,0,managing director of art,1,Animals,18800,6800,6600,0,No,Yes,1
+33,7387,22,9,15,3,2,3,3,12,2,1,0,0,managing director of art,2,Words in the News 2016,15000,7400,2400,0,Yes ,Yes,1
+33,7388,22,13,17,2,0,3,1,2,5,0,1,1,payroll professional,3,Notable Women,14200,12400,12200,10601,Yes,Yes,1
+33,7389,21,14,17,5,3,6,1,8,3,2,1,0,payroll professional,1,British Pop Music,10400,8500,8000,6601,No,No,0
+33,7390,18,16,15,1,5,3,5,3,14,1,1,0,pharmacy student,1,Shakespeare,13200,9900,8800,6601,No ,Yes,1
+33,7391,19,18,6,4,0,4,1,6,7,1,0,0,nonprofit research development,1,Technology,13200,11000,-400,11200,Yes,Yes,1
+33,7392,21,19,12,2,3,2,1,3,6,0,2,0,nonprofit research development,1,European Countries,19200,17200,5600,17300,No,No,0
+33,7393,20,17,14,1,4,3,3,5,2,0,2,0,freelance consultant,1,EW's 50 Greatest Movie Directors,15000,10000,7000,5001,Yes,Yes,1
+33,7394,21,15,11,4,4,1,1,3,8,2,1,0,student,2,Literary Animals,15300,8800,7200,6499,Yes,Yes,1
+33,7395,16,16,15,5,3,4,5,4,3,1,0,0,mathematics professor,1,Historic Documents,13400,9000,300,9000,Yes,Yes,1
+33,7396,18,21,10,1,2,3,5,3,1,1,2,0,mathematics professor,1,State Birds,16400,14200,8000,12001,No ,No,0
+33,7397,16,13,11,5,6,2,1,3,5,0,0,0,homemaker,1,Commonwealth Countries,7400,7000,4200,6601,No,No,0
+33,7408,22,21,8,1,4,4,4,3,1,0,2,0,tv writer,1,Names in the American Revolution,19200,13000,6000,6801,Yes,Yes,1
+33,7409,23,9,11,4,3,3,4,11,2,1,0,0,tv writer,1,Food History,11600,7000,3800,2401,Yes,Yes,1
+33,7410,24,17,11,1,3,2,6,4,1,1,0,0,technical engineer,2,Entertainers,20300,6600,6200,700,No,Yes,1
+33,7411,20,17,12,2,0,1,5,2,1,1,1,1,technical engineer,1,World Flags,17000,16600,13200,15801,No,Yes,1
+33,7412,20,19,9,3,3,3,3,4,9,1,0,0,technical engineer,2,Literature,15200,10000,5600,4801,Yes,Yes,1
+33,7413,28,9,9,3,0,1,4,2,5,1,1,0,technical engineer,3,Entertainment Award Winners,17800,10800,5800,3801,Yes,Yes,1
+33,7414,19,14,10,4,5,7,1,2,6,0,2,0,technical engineer,4,The Decorative Arts,9600,5200,-1400,801,No ,No,0
+33,7415,18,20,13,0,3,4,12,1,4,2,1,0,editor,1,Modern Mythology,18000,17000,4200,17000,Yes,Yes,1
+33,7416,15,19,14,2,5,2,3,2,7,0,0,0,subrights assistant,1,Name's the Same,12000,7600,6800,3300,No,No,0
+33,7417,19,18,10,3,1,4,2,15,9,1,0,0,scientist,2,Authors,11000,8800,4200,6601,No,No,0
+33,7418,20,11,8,2,4,6,4,3,7,1,1,0,editor,3,Presidential Elections,12400,4200,2800,2600,Yes,Yes,1
+33,7419,18,14,10,1,3,3,4,6,22,1,1,0,editor,4,Printing,13000,9000,3000,5001,No,Yes,1
+33,7420,22,14,9,0,4,5,3,9,4,2,0,1,editor,5,World Capitals,17600,5600,4600,5000,Yes,Yes,1
+33,7421,26,8,12,9,2,2,2,9,6,1,0,0,graduate student,6,Scientists,9200,8800,7800,5500,No,No,0
+33,7422,15,14,11,1,0,8,7,15,6,1,0,2,science content developer,7,City Names,12200,11400,2800,10601,Yes,Yes,1
+33,7423,20,14,11,2,5,2,5,1,8,1,1,0,science content developer,1,American Authors,13500,9400,9400,5301,No,Yes,1
+33,7424,19,13,14,5,1,4,1,4,2,0,1,0,graduate student,2,NYC TV,11600,9600,5300,7601,No,No,0
+33,7425,18,14,16,0,1,4,2,1,3,0,0,0,science content developer,3,Western Hemisphere Geography,15400,11200,5400,7001,Yes,Yes,1
+33,7426,14,16,15,2,3,4,2,1,10,1,1,0,science content developer,4,Words with Multiple Meanings,11600,9000,6200,6401,Yes,Yes,1
+33,7427,26,15,7,1,0,1,1,8,4,3,0,0,policy and research director,5,2016 U.S. Olympians,23800,13600,2600,5000,No ,No,0
+33,7428,18,18,10,3,3,2,8,1,2,2,1,0,technician,6,Little Countries,11600,10400,9600,10401,Yes,Yes,1
+33,7429,21,14,8,4,2,1,2,1,12,2,0,0,technician,1,Literary Inspirations,9000,7800,6200,7801,Yes,Yes,1
+33,7430,17,21,9,3,4,2,5,1,8,1,1,0,attorney,2,Recording History,13200,11800,2800,10401,No,No,0
+33,7431,12,19,14,2,5,8,5,3,11,0,2,0,stay-at-home-mom,3,Moon & Planets,7000,6600,-2200,6201,Yes ,Yes,1
+33,7432,15,13,13,3,2,4,12,5,2,1,0,1,stay-at-home-mom,1,The Civil War,9800,7000,6600,4199,No,Yes,1
+33,7433,18,17,14,1,2,2,1,2,13,1,0,1,doctor,2,Fictional Places,17200,10000,7200,3000,No,No,0
+33,7434,18,19,16,0,1,1,3,4,2,1,0,1,writer,1,Countries of the World,17600,15400,13700,14000,No,No,0
+33,7435,18,17,14,2,3,2,8,2,5,1,0,0,music teacher,1,Oscar-Winning Title Subjects,14800,9600,8800,4401,No ,Yes,1
+33,7436,21,12,12,1,5,2,2,4,5,0,0,1,software engineer,2,International Organizations,16800,7800,6200,1000,No,Yes,1
+33,7437,15,16,12,2,6,6,5,8,2,1,1,0,quality assurance analyst,1,World Cities,7800,4800,4600,1801,No,Yes,1
+33,7438,21,14,6,4,2,2,1,10,31,0,0,0,quality assurance analyst,1,Classic Movie Roles,14000,9000,1000,4001,No,Yes,1
+33,7439,25,18,8,2,1,1,2,1,14,1,1,0,quality assurance analyst,2,Men of Science,21000,14200,6800,7401,No,No,0
+33,7440,20,20,10,4,2,3,2,5,20,2,0,0,Congressional press secretary,1,Name the 19th Century Work,17200,15000,3600,12801,No,No,0
+33,7441,22,14,16,4,1,2,2,9,8,2,0,0,law student,2,19th Century Notables,17400,10600,8800,4000,No,No,0
+33,7442,25,15,13,2,1,2,1,3,2,1,0,0,assistant professor,1,Beatles Songs,19800,10600,7400,1401,No ,Yes,1
+33,7443,22,10,12,3,0,3,8,4,1,1,0,1,assistant professor,1,Shakespeare,10200,9400,6400,9401,No,No,0
+33,7444,15,16,16,3,3,5,7,9,2,1,1,0,attorney,1,Religious Terms,10900,10600,10200,3000,No ,No,0
+33,7445,15,15,15,1,3,4,6,9,3,1,0,0,high school principal,1,European Countries,11600,9400,2000,7500,No,No,0
+33,7446,16,14,12,4,4,3,5,2,14,0,1,0,electrical engineer,1,20th Century History,8400,7500,7000,7000,No,No,0
+33,7447,29,12,9,1,2,3,5,3,7,1,1,1,attorney,1,Plays,24600,11200,2400,400,No,Yes,1
+33,7448,20,20,8,1,4,5,5,4,15,0,1,0,attorney,2,U.S. History,14800,13600,700,12401,No,Yes,1
+33,7449,23,15,12,2,3,1,5,11,4,1,0,1,doctor,3,20th Century Artists,18400,8200,7600,1000,Yes,Yes,1
+33,7450,18,21,9,4,5,5,4,2,3,1,1,0,customer service manager,1,Women Singers,12200,9200,1200,6201,No,No,0
+33,7451,22,19,8,3,4,4,6,1,3,1,1,0,engineer,2,Animal Songs,17200,12600,4000,8000,No,Yes,1
+33,7452,21,14,12,3,1,3,6,5,7,2,0,0,basketball podcaster,1,Medals & Decorations,20200,5800,3800,301,No,Yes,1
+33,7453,21,7,8,4,2,4,1,11,12,1,0,0,basketball podcaster,1,Religious Groups,15400,2200,-800,739,Yes,Yes,1
+33,7454,22,13,14,1,4,3,2,1,4,1,1,0,writer,2,20th Century Playwrights,23600,6200,4600,7000,Yes,Yes,1
+33,7455,15,17,18,0,3,1,4,3,9,1,1,1,portfolio manager,1,African Cities,14900,13800,11400,12701,No,No,0
+33,7456,19,9,13,1,1,5,1,18,6,0,0,1,microbiologist,1,Names in American History,14400,5800,3400,1000,Yes,Yes,1
+33,7457,13,19,13,3,4,3,4,7,5,1,0,0,sustainability specialist,2,Actresses,12000,10600,7400,9201,No,No,0
+33,7458,23,15,11,4,3,3,2,11,4,1,1,0,microbiologist,3,Dual-Use Terms,14200,10300,1400,6600,Yes,Yes,1
+33,7459,30,14,8,2,0,2,1,3,4,3,0,0,microbiologist,4,The U.S.A.,27500,13600,4400,200,No ,Yes,1
+33,7460,22,19,7,1,1,4,5,2,8,1,1,1,professor,5,Contemporary Authors,18400,13400,4000,8401,No,No,0
+33,7461,13,19,17,0,2,1,1,7,15,1,1,0,captioner,6,Mythological Names,13200,13000,9800,399,No ,Yes,1
+33,7462,16,17,15,4,2,2,1,9,4,1,1,0,retired postal clerk,1,The U.S. Government,13600,12400,9200,12000,Yes,Yes,1
+33,7463,23,12,15,4,3,1,9,2,1,1,1,0,attorney,1,National Anthems,12800,10800,9400,8801,No,No,0
+33,7464,18,23,4,1,4,4,1,11,10,1,1,0,graduate student,1,The Oscars,17100,14600,-1000,2499,No,Yes,1
+33,7465,18,15,10,0,2,3,1,6,12,1,1,0,Naval officer,2,Literary Characters,14000,10600,4800,7201,No,No,0
+33,7476,18,15,13,2,1,1,2,1,10,1,1,0,attorney,3,U.S. Landmarks,11800,10200,8200,8601,No,No,0
+33,7477,21,12,14,2,0,8,3,2,1,0,0,1,research editor,4,Religion,12600,9800,-600,7001,Yes,Yes,1
+33,7478,26,12,7,3,2,5,2,7,6,0,1,0,research editor,1,The Oscars,20400,5800,0,0,Yes,Yes,1
+33,7479,24,12,8,2,2,7,5,11,2,2,0,0,research editor,2,Signers of the Constitution,19300,9000,-3000,700,No,Yes,1
+33,7480,20,11,10,4,2,3,3,1,7,2,0,0,research editor,3,Authors' Epitaphs,14000,6600,4800,0,No,Yes,1
+33,7481,20,16,10,4,5,3,4,3,1,1,1,1,research editor,4,Europe,15200,13400,8400,11601,No,No,0
+33,7482,25,13,9,3,1,3,5,3,1,1,2,0,software engineer,1,Years in European History,22600,10200,4400,1983,Yes,Yes,1
+33,7483,25,10,13,5,3,8,1,3,5,1,0,1,unemployed bartender,1,Children's Authors,15600,3600,1000,4400,Yes,Yes,1
+33,7484,18,18,12,1,3,2,3,1,2,1,1,0,operations support specialist,1,Nations of the World,16200,15600,8600,15001,No,No,0
+33,7485,19,17,10,2,2,2,6,2,9,1,1,0,unemployed bartender,2,TV Characters,19600,12400,5800,11401,No,No,0
+33,7486,23,12,11,2,3,2,1,6,7,1,1,0,college admission officer,1,Biblical Who's Who,19200,9200,8800,700,Yes,Yes,1
+33,7487,14,18,19,1,2,4,1,8,3,2,0,1,software developer,2,Capital Cities,13400,11600,10400,10000,Yes,Yes,1
+33,7488,24,12,12,1,2,2,4,3,2,1,1,0,software developer,1,World Airports,23200,6900,3300,6800,Yes,Yes,1
+33,7489,22,17,9,2,2,0,3,9,19,2,0,0,librarian,2,International Beverage Brands,15800,11200,6800,6601,No,No,0
+33,7490,22,16,11,1,3,3,6,2,7,0,2,1,pyschologist,3,20th Century Books,20200,15400,7200,11000,Yes,Yes,1
+33,7491,17,13,11,3,5,5,1,2,3,1,1,0,pyschologist,1,Papal Names,15800,6000,4800,3700,No,Yes,1
+33,7492,22,21,9,4,2,4,2,6,9,1,0,0,librarian,2,Fashion History,17100,15600,-3200,1505,No,No,0
+33,7493,18,21,7,1,1,2,12,1,7,1,1,0,college professor,1,Business,15800,12400,4200,9001,No,No,0
+33,7494,13,23,15,2,3,2,4,3,2,1,0,0,art dealer,2,Fictional Characters,14000,12200,9400,10401,No,No,0
+33,7495,22,15,11,2,4,3,2,4,5,1,1,0,software developer,1,Native American Place Names,12400,9000,1800,5601,No,No,0
+33,7496,19,19,13,6,1,0,2,4,7,3,0,0,energy engineer,1,Scientists,13401,13400,11800,13400,Yes,Yes,1
+33,7497,22,21,14,2,0,0,1,3,4,1,0,2,professor,1,Historic Anniversaries,19200,17600,17400,9200,Yes,Yes,1
+33,7498,23,15,9,4,3,0,2,1,12,2,0,0,professor,1,Words in the News 2016,12800,9200,8800,6000,Yes,Yes,1
+33,7499,21,21,9,4,3,1,1,3,7,0,3,0,professor,2,Musical Theatre,15400,14800,3000,7500,Yes,No,0
+33,7500,20,13,14,2,2,5,1,5,2,1,0,1,data analyst,1,Famous British Names,14000,11800,7200,10000,No,No,0
+33,7501,24,9,14,2,1,2,7,16,3,1,1,0,education administrator,2,Countries of the World,22000,5600,-800,7000,Yes,Yes,1
+33,7502,20,18,7,2,2,2,1,6,4,0,1,0,education administrator,1,Contemporary Artists,12200,11400,4800,2000,No,Yes,1
+33,7503,25,12,15,1,1,2,3,2,17,0,1,1,education administrator,2,Sports Mascots,19000,17200,13600,2000,Yes,No,0
+33,7504,18,12,23,4,2,4,8,4,2,2,0,0,scoring director,1,Familiar Phrases,12200,11600,10200,11001,No,No,0
+33,7505,19,16,11,4,3,3,3,2,10,0,0,0,student,1,British Novels,12400,7800,6000,10000,No,No,0
+33,7506,24,17,9,5,4,3,3,2,11,0,1,1,direct service provider,1,American Authors,17200,7700,7100,1000,No,Yes,1
+33,7507,18,15,9,2,1,5,5,1,2,0,1,0,direct service provider,1,Americana,13800,10000,2000,7599,Yes,Yes,1
+33,7508,20,9,18,4,1,3,2,22,5,1,1,0,direct service provider,2,Scary Movies,14400,8800,8600,3201,No,No,0
+33,7509,17,17,15,2,3,4,7,5,4,1,1,0,bond analyst,1,International Symbols,13600,13200,8600,5000,No,No,0
+33,7510,21,15,11,4,1,5,4,12,2,1,0,1,writer/producer,1,Countries of the World,12400,11800,4400,11201,No,No,0
+33,7511,22,15,14,1,7,4,4,1,3,1,0,0,loan coordinator,2,Universities,17000,7400,5800,1500,No,Yes,1
+33,7512,24,12,11,5,4,4,2,1,6,1,1,0,loan coordinator,1,Military Innovations,15200,8000,5400,801,No,Yes,1
+33,7513,14,14,18,4,6,3,5,3,1,2,1,0,finance system manager,2,Historic U.S. Laws,13200,9800,8800,6401,No,No,0
+33,7514,20,19,12,4,3,3,1,4,3,2,0,1,attorney,1,Actresses,17500,14400,3800,11301,No,No,0
+33,7515,18,16,14,3,2,3,3,4,7,0,1,0,nonprofit professional,1,19th Century Europe,12100,10200,5400,8301,No,No,0
+33,7516,27,18,7,2,2,0,4,17,5,2,1,0,software engineer,1,U.S. Presidents,27600,11800,3800,3600,No,Yes,1
+33,7517,20,19,16,2,2,1,6,9,2,0,2,0,data analyst,1,Numeric Groups,18600,17000,16000,15401,No,No,0
+33,7518,22,20,9,1,3,5,2,1,4,2,0,0,software engineer,2,Historic Homes,22800,14200,1200,6000,Yes,Yes,1
+33,7519,21,20,5,3,4,2,2,1,6,1,0,0,software engineer,3,Toys,14600,8600,3000,5000,Yes,Yes,1
+33,7520,28,12,15,1,1,5,4,1,5,1,0,0,software engineer,4,Historic Works' First Lines,21400,9000,7800,3000,Yes,Yes,1
+33,7521,18,14,14,0,2,6,5,4,2,0,1,1,electrical engineer,5,The Supreme Court,11000,7400,7400,3801,No,No,0
+33,7522,17,17,15,3,0,2,1,13,5,1,1,0,attorney,6,Mythology,13200,12400,10200,12401,Yes,Yes,1
+33,7523,24,19,4,2,3,3,1,5,12,1,0,1,financial analyst,1,Movie Music,18700,10200,3000,1701,Yes,Yes,1
+33,7524,16,15,16,5,1,4,1,3,2,2,0,0,financial analyst,1,Novels,11400,10600,9400,6801,Yes,Yes,1
+33,7525,18,14,16,1,2,2,5,1,2,1,0,0,writer,2,Monarchs,13000,12000,10000,11001,No,No,0
+33,7536,17,17,17,0,1,2,1,4,14,2,1,0,cell biologist,3,The British Empire,18600,16200,8800,16205,Yes,Yes,1
+33,7537,18,15,13,0,2,3,4,2,1,0,2,0,cell biologist,1,Classic Rock Songs,15800,12600,7400,12605,Yes,Yes,1
+33,7538,25,11,10,3,2,2,1,6,2,0,1,0,systems analyst,2,Dog Breeds,15600,9200,6400,3000,No,Yes,1
+33,7539,17,16,13,3,3,4,1,6,9,1,1,0,attorney,1,Art & Pop Culture,13400,11200,1800,9001,Yes,Yes,1
+33,7540,23,13,10,3,2,5,4,6,5,0,1,1,attorney,1,Ancient Authors,18595,7800,6000,5,No,Yes,1
+33,7541,28,21,8,1,3,1,1,6,22,3,0,0,attorney,2,19th Century British Authors,32200,11400,5600,3000,Yes,Yes,1
+33,7542,19,18,14,1,3,1,4,2,9,1,1,0,attorney,3,The Civil War Era,18000,13000,11000,8001,No,No,0
+33,7543,14,24,8,1,7,1,1,2,4,0,0,0,jewlery store assistant ,1,Communication,11600,9200,6000,401,Yes,No,0
+33,7544,18,21,17,1,0,3,2,5,1,1,2,0,attorney,1,African Capitals,24800,18900,10800,13001,Yes,Yes,1
+33,7545,25,17,13,5,1,3,2,7,4,2,0,0,attorney,2,Social & Sports Barriers,16600,13600,6800,10601,Yes,Yes,1
+33,7546,16,21,8,3,6,4,1,2,4,1,0,0,social worker,3,World Transportation,13200,9200,1800,5202,Yes,Yes,1
+33,7547,19,14,15,0,1,4,3,1,8,0,1,0,social worker,1,The Oscars,18000,10800,5200,4000,No,Yes,1
+33,7548,20,22,11,3,1,6,2,1,5,1,1,1,lawyer,2,British Kings,16700,16500,2400,16300,Yes,Yes,1
+33,7549,20,9,12,5,2,7,1,8,14,1,0,0,lawyer,1,World War II Heroes,12000,7000,2800,2001,No,Yes,1
+33,7550,17,18,15,2,3,4,1,4,9,0,1,1,teacher,2,Constellations,12200,11800,9400,11401,Yes,Yes,1
+33,7551,15,16,17,3,4,5,5,3,7,0,0,1,attorney,1,Geography,8400,8200,6200,8001,No,No,0
+33,7552,13,11,18,1,4,5,13,2,1,0,1,0,teacher,2,16th Century Names,12600,6400,5200,201,No,Yes,1
+33,7553,24,20,12,1,2,2,1,6,13,2,0,0,librarian,3,Books & Authors,22200,16900,5200,5300,Yes,No,0
+33,7554,17,26,11,2,5,3,6,1,2,1,0,1,retired teacher,1,Recent Oscar Winners,18600,12700,4700,5900,No,Yes,1
+33,7555,22,15,16,4,6,2,2,5,1,1,1,0,student,1,Classical Music,17600,9200,7800,801,Yes,Yes,1
+33,7556,12,21,9,5,7,6,7,5,13,0,0,0,writer,1,Airlines,6400,3600,1800,801,No,No,0
+33,7557,21,13,18,1,2,5,7,2,3,2,0,0,student,2,Shakespeare Titles,21600,9600,800,2399,No,Yes,1
+33,7558,24,21,8,3,3,2,2,1,28,1,1,0,office manager,3,Sports & Politics,21600,17200,1200,12801,Yes,Yes,1
+33,7559,24,18,12,4,3,2,1,6,7,1,0,0,office manager,1,Europe 1962,15800,14000,2800,12201,Yes,Yes,1
+33,7560,25,16,14,5,0,3,1,5,4,1,0,1,office manager,2,Books of the 1960s,13300,12600,8800,11910,No,No,0
+33,7561,13,21,19,2,0,2,1,2,6,1,2,0,CPA,1,Oscar Winners,20000,20000,10800,20000,No,No,0
+33,7562,19,16,12,3,2,1,1,6,3,1,0,1,student,1,Literary References,14800,11000,8300,7201,Yes,Yes,1
+33,7563,24,16,14,0,2,2,3,2,10,2,1,0,law student,2,Entreneurs,23200,14600,9000,6001,No,No,0
+33,7564,20,17,12,1,2,4,6,4,15,1,0,1,project manager,1,Nations of the World,19800,10995,6200,2200,Yes,Yes,1
+33,7565,20,14,15,2,2,5,5,1,2,1,0,1,attorney,1,Plants,12300,10400,9300,6000,Yes,Yes,1
+33,7566,24,19,9,1,2,2,5,3,7,1,1,0,government contractor,1,20th Century Transportation,24600,13400,6000,2400,No,No,0
+33,7567,23,12,12,2,2,5,1,13,9,1,0,0,attorney,2,Classic Children's Literature,19600,6200,3500,400,No,Yes,1
+33,7568,15,11,18,4,1,5,1,14,6,0,1,0,attorney,3,Small Countries,11000,9000,8000,7001,Yes,Yes,1
+33,7569,28,10,15,2,2,4,2,6,7,1,0,0,attorney,4,Sports Traditions,19000,10800,9400,2601,Yes,Yes,1
+33,7570,22,15,11,4,5,4,5,1,2,2,1,0,attorney,5,Peoples of the World,14600,8000,4400,1401,No,No,0
+33,7571,22,12,7,6,4,5,4,5,2,1,0,0,attorney,1,The Human Body,10300,7200,2400,4200,Yes,Yes,1
+33,7572,23,12,19,1,1,3,2,3,1,1,1,0,foreign service officer,1,Landlocked Country Names,21400,11400,10200,1401,No,No,0
+33,7573,18,15,15,4,5,2,5,1,4,0,1,0,writer,1,World Leaders,14600,8600,7200,5000,Yes,Yes,1
+33,7574,23,15,16,2,0,3,5,8,2,1,0,1,writer,1,The Academy Awards,19800,13000,199,10000,No,Yes,1
+33,7575,20,16,10,3,2,3,1,4,8,1,0,0,writer,2,Contemporary American Authors,15800,9800,3000,5000,Yes,Yes,1
+33,7576,19,21,12,1,1,2,2,4,13,2,0,1,educator,3,Deadly Creatures,21800,18200,7200,15000,Yes,Yes,1
+33,7577,19,19,10,3,3,4,1,3,5,2,0,0,educator,1,20th Century Famous Names,14800,10400,3200,5000,Yes,Yes,1
+33,7578,21,18,13,3,2,2,1,9,5,1,0,0,educator,2,Historic Events,13800,10800,8400,6000,Yes,Yes,1
+33,7579,20,19,6,2,3,1,3,5,10,2,0,0,teacher,3,State Capitals,13600,13400,3400,13500,Yes,Yes,1
+33,7580,20,16,18,2,2,4,1,2,6,0,1,1,professor,1,Americana,16800,14400,7500,12001,No,No,0
+33,7581,16,19,11,3,2,1,1,3,12,2,0,0,teacher,2,Colleges,14000,11600,8100,4000,Yes,Yes,1
+33,7582,23,17,13,2,2,4,1,2,15,1,1,0,teacher,3,Europe,24300,13800,3600,4000,No,Yes,1
+33,7583,24,19,7,2,2,0,6,5,9,2,0,0,teacher,4,Novels,22200,13400,4400,5000,No,Yes,1
+33,7584,22,15,12,5,1,2,4,15,1,0,0,1,web writer,5,The Oscars,10400,10000,9800,9601,No,No,0
+33,7585,22,16,13,3,2,1,2,9,1,2,1,0,games editor,1,21st Century Thought,21000,16200,8400,11401,No,No,0
