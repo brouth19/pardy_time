@@ -69,3 +69,24 @@ def preprocess_targets(jeopardy_dataframe):
     output_targets["leader_win"] = jeopardy_dataframe["leader_win_flag"].astype(float)
 
     return output_targets
+
+
+# Choose the first 160 (out of 200) examples for training.
+training_examples = preprocess_features(jeopardy_dataframe.head(160))
+training_targets = preprocess_targets(jeopardy_dataframe.head(160))
+
+# Choose the last 40 (out of 200) examples for validation.
+validation_examples = preprocess_features(jeopardy_dataframe.tail(40))
+validation_targets = preprocess_targets(jeopardy_dataframe.tail(40))
+
+# Double-check that we've done the right thing.
+print("Training examples summary:")
+display.display(training_examples.describe())
+print("Validation examples summary:")
+display.display(validation_examples.describe())
+
+print("Training targets summary:")
+display.display(training_targets.describe())
+print("Validation targets summary:")
+display.display(validation_targets.describe())
+
