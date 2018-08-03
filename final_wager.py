@@ -1,0 +1,19 @@
+from __future__ import print_function
+
+import math
+
+from IPython import display
+from matplotlib import cm
+from matplotlib import gridspec
+from matplotlib import pyplot as plt
+import numpy as np
+import pandas as pd
+from sklearn import metrics
+import tensorflow as tf
+
+
+tf.logging.set_verbosity(tf.logging.ERROR)
+pd.options.display.max_rows = 10
+pd.options.display.float_format = '{:.1f}'.format
+
+jeopardy_dataframe = pd.read_csv("data.csv", sep=",")
