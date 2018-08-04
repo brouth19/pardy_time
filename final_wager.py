@@ -20,7 +20,7 @@ jeopardy_dataframe = pd.read_csv("jeopardy_data.csv", sep=",")
 
 
 def preprocess_features(jeopardy_dataframe):
-    """Prepares input features from California housing data set.
+    """Prepares input features from Jeopardy data set.
 
      Args:
        jeopardy_dataframe: A Pandas DataFrame expected to contain data
@@ -49,8 +49,18 @@ def preprocess_features(jeopardy_dataframe):
      "amount_before_final_c",
      "amount_leader_wagered"
      ]]
-
-    return selected_features
+    processed_features = selected_features.copy()
+    # Create a synthetic feature.
+    processed_features["audacity_a"] = (
+            jeopardy_dataframe["incorrect_a"] /
+            jeopardy_dataframe["correct_a"])
+    processed_features["audacity_b"] = (
+            jeopardy_dataframe["incorrect_b"] /
+            jeopardy_dataframe["correct_b"])
+    processed_features["audacity_a"] = (
+            jeopardy_dataframe["incorrect_b"] /
+            jeopardy_dataframe["correct_b"])
+    return processed_features
 
 
 def preprocess_targets(jeopardy_dataframe):
@@ -65,7 +75,7 @@ def preprocess_targets(jeopardy_dataframe):
 
     output_targets = pd.DataFrame()
     # Create a boolean categorical feature representing whether the
-    # median_house_value is above a set threshold.
+    # leader before Final Jeopardy won the show
     output_targets["leader_win"] = jeopardy_dataframe["leader_win_flag"].astype(float)
 
     return output_targets
@@ -89,4 +99,46 @@ print("Training targets summary:")
 display.display(training_targets.describe())
 print("Validation targets summary:")
 display.display(validation_targets.describe())
+
+
+def construct_feature_columns(input_features):
+    """Construct the TensorFlow Feature Columns.
+
+    Args:
+     input_features: The names of the numerical input features to use.
+    Returns:
+    A set of feature columns
+  """
+
+    for my_feature in input_features:
+        if my_feature in ("correct_a",
+            "correct_b",
+            "correct_c",
+            "incorrect_a",
+            "incorrect_b",
+            "incorrect_c",
+            "num_since_correct_a",
+            "num_since_correct_b",
+            "num_since_correct_c",
+            "dd_a",
+            "dd_b",
+            "dd_c",
+            "num_wins_row_champ",
+            "amount_before_final_a",
+            "amount_before_final_b",
+            "amount_before_final_c",
+            "amount_leader_wagered"):
+            f_list = set([tf.feature_column.numeric_column(my_feature)])
+    occupation_feature_column = tf.feature_column.categorical_column_with_vocabulary_file(
+        key='occupation_leader',
+        vocabulary_file="unique_occupations.txt",
+        vocabulary_size=86)
+    f_list.union(occupation_feature_column)
+    final_category_feature_column = tf.feature_column.categorical_column_with_vocabulary_file(
+        key='final_category',
+        vocabulary_file="unique_final_jeopardy_categories.txt",
+        vocabulary_size=181)
+    f_list.union(final_category_feature_column)
+
+    return f_list
 
